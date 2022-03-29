@@ -1,0 +1,284 @@
+body {
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+.shap {
+    width: 1070px;
+    margin: 0 auto 70px;
+}
+
+.shapka {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 100px;
+}
+
+.avatar2 {
+    width: 500px;
+    margin-top: 20px;
+    border-right: 50px;    
+}
+
+.Zag {
+    width: 500px;
+    margin-top: 1px;
+    margin-left: 1%;
+    border-right: 5px;  
+    line-height: 15px;  
+}
+
+.Zag2 {
+    line-height: 0px;
+}
+
+.conteyner {
+    margin: 0 auto;
+    width: 1070px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.buutom {
+    margin-top: 15px;
+    margin-bottom: 70px;
+    padding: 10px 20px;
+    background-color: #ff4242;
+    color: white;
+    cursor: pointer;   
+}
+
+.Area {
+    display: flex;
+    align-items: right;
+    
+    margin: 0px;
+    padding:0px 0px;
+     
+    width: 100%;
+    right: 0px;
+    background-color: #dceafc;
+    height: 25px;
+}
+
+.recent {
+    color: rgb(73, 73, 73);
+}
+
+.verh {
+    display: flex;
+    flex-direction: row;
+
+    margin: 0 auto;
+    width: 1070px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    bottom: 0%;
+}
+
+
+
+.view  a {
+    color: rgb(0, 162, 255);
+}
+
+
+.conteyner3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%px;
+    margin: 0 auto 0 aoto;
+    align-items: center;
+    justify-content: center;
+
+height: 400px;
+background-color: #dceafc;
+
+   
+    
+   
+    }
+
+    .col {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    justify-content: center;
+        width: 500px;
+        height: 370px;
+        background-color: #ffffff;
+        margin: 30px
+        
+        
+        
+    
+        
+    }
+
+    .col2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    justify-content: center;
+        width: 500px;
+        height: 370px;
+        background-color: #ffffff;
+        margin: 30px
+    }
+
+    .textbox1 {
+        display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    }
+
+    .text3 {
+        line-height: 0px;
+    }
+
+    .textbox2 {
+        display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    }
+
+    .text4 {
+        line-height: 0px;
+    }
+
+    .col h1 {
+        line-height: 0px;
+    }
+
+    .col2 h1 {
+        line-height: 0px;
+    }
+
+    .Feautured {
+        color: rgb(73, 73, 73);
+        display: flex;
+        
+    }  
+       
+         
+    .dashboards img{
+        width: 300px;
+        height: 200px;
+        border-radius: 5%;
+    }
+
+    .text5 {
+        line-height: 0px;
+    }
+
+    .conteyner4 {
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-around;
+    }
+
+
+    .dashboards2 img{
+        width: 300px;
+        height: 200px;
+        border-radius: 5%;
+    }
+
+    .text6 {
+        line-height: 0px;
+    }
+
+    .conteyner5 {
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-around;
+    }
+
+    .dashboards3 img{
+        width: 300px;
+        height: 200px;
+        border-radius: 5%;
+    }
+
+    .text7 {
+        line-height: 0px;
+    }
+
+    .conteyner6 {
+        display: flex;
+        flex-direction: row;
+        
+        justify-content: space-around;
+    }
+
+    .bigbox1 {
+        margin: 0 420px;
+    }
+
+    .logo {
+        width: 50px;
+        height: 50px;
+        border-radius: 5%;
+    }
+
+    .logo11 {
+        width: 50px;
+        height: 50px;
+        border-radius: 5%;
+    }
+
+    .logo22 {
+        width: 50px;
+        height: 50px;
+        border-radius: 5%;
+    }
+
+    .logo33 {
+        width: 50px;
+        height: 50px;
+        border-radius: 5%;
+    }
+
+    .logos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-around;
+        margin: 200px 720px 0 720px;
+    }
+
+    .footer1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-around;
+        margin: 0 720px 0 720px;
+    }
